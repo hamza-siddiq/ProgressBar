@@ -1,10 +1,15 @@
-namespace Program{
-    /*
-    * Implementation of a Progress bar inside a loop
-    */
-    count = 30
-    var progressbar = new ProgressBar(count)
-    foreach (int i in count){
-        tick();
+﻿using ProgressBar;
+namespace ProgressBar{
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        int count = 30;
+        var progressbar = new ProgressBar(count);
+        for (var i = count; i > 0; i--){
+            progressbar.Tick();
+        }
     }
+}
 }

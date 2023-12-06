@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hamza/Documents/GitHub/ProgressBar/ProgressBar.csproj": {}
+  },
+  "projects": {
+    "/Users/hamza/Documents/GitHub/ProgressBar/ProgressBar.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hamza/Documents/GitHub/ProgressBar/ProgressBar.csproj",
+        "projectName": "ProgressBar",
+        "projectPath": "/Users/hamza/Documents/GitHub/ProgressBar/ProgressBar.csproj",
+        "packagesPath": "/Users/hamza/.nuget/packages/",
+        "outputPath": "/Users/hamza/Documents/GitHub/ProgressBar/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hamza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

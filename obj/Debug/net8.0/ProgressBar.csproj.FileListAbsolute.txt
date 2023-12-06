@@ -1,0 +1,15 @@
+/Users/hamza/Documents/GitHub/ProgressBar/bin/Debug/net8.0/ProgressBar
+/Users/hamza/Documents/GitHub/ProgressBar/bin/Debug/net8.0/ProgressBar.deps.json
+/Users/hamza/Documents/GitHub/ProgressBar/bin/Debug/net8.0/ProgressBar.runtimeconfig.json
+/Users/hamza/Documents/GitHub/ProgressBar/bin/Debug/net8.0/ProgressBar.dll
+/Users/hamza/Documents/GitHub/ProgressBar/bin/Debug/net8.0/ProgressBar.pdb
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.AssemblyInfoInputs.cache
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.AssemblyInfo.cs
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.csproj.CoreCompileInputs.cache
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.sourcelink.json
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.dll
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/refint/ProgressBar.dll
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.pdb
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ProgressBar.genruntimeconfig.cache
+/Users/hamza/Documents/GitHub/ProgressBar/obj/Debug/net8.0/ref/ProgressBar.dll

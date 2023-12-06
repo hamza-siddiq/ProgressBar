@@ -5,15 +5,19 @@ namespace ProgressBar
         /*
         * An implementation of a Progress bar inside C#
         */
-        public ProgressBar(decimal totalFiles, decimal currentFile = 0, decimal oldProgress = 0, char style = "█", int sticks = 20)
+        public ProgressBar(decimal totalFiles, decimal currentFile = 0, decimal oldProgress = 0, string style = "█", int sticks = 20)
         {
             TotalFiles = totalFiles;
             CurrentFile = currentFile;
             OldProgress = oldProgress;
+            Style = style;
+            Sticks = sticks;
         }
         public decimal CurrentFile { get; private set; }
         public decimal TotalFiles { get; private set; }
         public decimal OldProgress { get; set; }
+        public string Style{get; set;}
+        public int Sticks{get; set;}
         public void Tick()
         {
             CurrentFile++;
@@ -24,6 +28,7 @@ namespace ProgressBar
             {
                 OldProgress = progress;
             }
+            Console.Write(CurrentFile);
             if (CurrentFile != 1)
             {
                 Console.SetCursorPosition(0, Console.CursorTop - 1);
